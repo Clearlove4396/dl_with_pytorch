@@ -2,7 +2,7 @@
 use pytorch to explore deep learning
 
 
-# mnist数据集
+# mnist
 mnist_nn.py  全连接神经网络，用来学习pytorch
 
 nn_mnist.pkl 训练全连接网络得到的模型参数
